@@ -160,11 +160,22 @@ p.timedescription {
 }
 
 #btn {
-	padding: 20px 20px 0 0;
+	padding: 40px 40px 0 0;
 	background-color: transparent;
 	color: #fff;
 	border: none;
 	cursor: pointer;
 	overflow: hidden;
 	outline: none;
+}
+
+.play {
+	width: 50px;
+	height: 50px;
+	background-image: url(https://img.icons8.com/fluency-systems-filled/48/ffffff/play.png);
+	background-size: contain;
+}
+
+.pause {
+	background-image: url(https://img.icons8.com/ios-glyphs/344/ffffff/pause--v1.png);
 }
