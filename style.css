@@ -156,7 +156,8 @@ p.timedescription {
 
 .audio_btn {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: end;
+	margin: 17px;	
 }
 
 #btn {
