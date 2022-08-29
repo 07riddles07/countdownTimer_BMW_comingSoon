@@ -1,5 +1,5 @@
 function releaseCountdown() {
-    const releaseDate = new Date('July 07, 2022 09:00');
+    const releaseDate = new Date('December 07, 2022 09:00');
     const today = new Date();
     const difference = releaseDate - today;
    
